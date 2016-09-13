@@ -1,3 +1,3 @@
- ### Intro Data Science:
+ >### Intro Data Science:
  
  An introduction to the basic data science techniques including programming in Python, SQL/SPARQL and Map-Reduce for small and big data manipulation and analytics. We also cover topics including data collection, data preparation, data querying, data analytics including pattern mining, classification, clustering, data visualization, and parallel computing platforms. We will also touch on advanced data analytics including NLP, knowledge extraction, graph analytics, graph querying, knowledge bases and crowd sourcing. During the course, we will also make an effort to introduce key application areas of data science including business intelligence, social media, biomedicine, and e-discovery.
